@@ -1,7 +1,3 @@
-Realizzazione di un semplice Lexer in Java.
-
-Esercitazione 1 del Corso Compilatori dell'Università degli studi di Salerno.
-
 ## Table
 
 |Lessema|Token|Attributo|
